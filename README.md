@@ -1,5 +1,5 @@
-# Flix
-Flixster is an Android application that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
+# Flixsta
+Flixsta is an Android application that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 
 ---
 
